@@ -1,0 +1,17 @@
+
+    .cuadro {
+        width: 200px;
+        height: 200px;
+        background-color: #f9f9f9;
+        border: 1px solid #ccc;
+        padding: 20px;
+        display: inline-block; 
+        margin: 10px; 
+}
+
+footer {
+    background-color: #333; /* Color de fondo del pie de página */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
